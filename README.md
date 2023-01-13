@@ -20,6 +20,11 @@ Desafio do final do segundo módulo do curso da <a target="_blank" href="https:/
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div>
 
+## ✒️ Visual
+
+![alt text](assets/cubos-flix.png)
+![alt text](assets/cubos-flix-modal.png)
+
 <div align="center">
 Feito com 💜 por <a target="_blank" href="https://www.linkedin.com/in/mi-santana/">Milena Santana</a> 😊
 </div>
