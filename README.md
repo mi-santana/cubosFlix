@@ -4,14 +4,13 @@ Desafio do final do segundo módulo do curso da <a target="_blank" href="https:/
 
 É importante destacar que os arquivos HTML e CSS já vieram prontos, porém tudo que está dentro da pasta JS foi desenvolvido por mim.
 
-| O que foi feito: | 
-| ------ |
-| ✅ Visualização de filmes |
-| ✅ Paginação de filmes |
-| ✅ Busca de filmes |
-| ✅ "Filme do dia" |
-| ✅ Modal de filme |
-| ✅ Mudança de tema |
+O que foi realizado:
+- Visualização de filmes
+- Paginação de filmes
+- Busca de filmes
+- "Filme do dia"
+- Modal de filme
+- Mudança de tema
 
 #### 👉🏼 <a target="_blank" href="https://cubos-flix-challenge.netlify.app/">**VISUALIZE O PROJETO**</a>
 
